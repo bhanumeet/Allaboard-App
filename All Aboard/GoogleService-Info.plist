@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>149453336626-ro2fnmvss7l6h6l01psq2po4rkj7cv07.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.149453336626-ro2fnmvss7l6h6l01psq2po4rkj7cv07</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfrF_LUyWkvQVkyNE49OrpJu7QjecgL14</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149453336626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.masseyeandear.allaboard</string>
+	<key>PROJECT_ID</key>
+	<string>all-aboard-f056f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>all-aboard-f056f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149453336626:ios:08e2786c57d353c0594c2b</string>
+</dict>
+</plist>
