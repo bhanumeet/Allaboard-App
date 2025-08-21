@@ -1,4 +1,6 @@
 # All Aboard - Accessible Bus Stop Detection App
+<img width="1536" height="1024" alt="AllAboardCover" src="https://github.com/user-attachments/assets/6eedd8da-53cb-44f2-b9f0-f9da6ed59f8e" />
+
 
 **All Aboard** is a comprehensive accessibility application designed to revolutionize public transportation navigation for visually impaired users. Leveraging  machine learning and computer vision, this app provides real-time bus stop detection, distance measurement, optical character recognition, and voice-controlled navigation assistance.
 
